@@ -1,7 +1,5 @@
-*--------------------------------------------------------------------------------
 *                               EASy68K 
 * Editor, Assembler, Simulator, S-Record/Binary utility for 68000 microprocessor
-*--------------------------------------------------------------------------------
 
 Editor written by Tim Larson
 Original Assembler code by Paul McKee
