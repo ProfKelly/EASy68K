@@ -1,0 +1,21 @@
+<<<<< Instructions for compiling EASy68K >>>>>
+
+EASy68K was created using Borland C++ Builder 6.0 Professional. Builder 6 is no longer available for purchase new, but used copies are fairly easy to find.
+
+There are project files included for the Editor/Assembler and the Simulator, EDIT68K.BPR and SIM68K.BPR.
+
+To compile EDIT68K:
+Add the new RichEditPlus control to Builder. See "Installation Instructions.txt" in the RichEditPlus folder in Edit68K source.
+
+
+To compile SIM68K:
+
+Get the DirectX8 .h files from the Microsoft DirectX SDK. Place them in a folder named DirectX and put the DirectX folder in C:\Program Files\Borland\CBuilder6\Include. 
+
+Place dsound.lib in C:\Program Files\Borland\CBuilder6\Lib
+dsound.lib is from: http://realmike.org/borlibs/index.htm
+
+
+_________________
+Charles Kelly
+
